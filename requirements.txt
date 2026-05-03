@@ -1,0 +1,7 @@
+```text
+catboost>=1.2.0
+pandas
+numpy
+seaborn
+matplotlib
+```
