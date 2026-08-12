@@ -1,7 +1,8 @@
-```text
 catboost>=1.2.0
 pandas
 numpy
 seaborn
 matplotlib
-```
+graphviz
+# Для ячейки model.plot_tree() дополнительно нужен системный Graphviz (бинарник dot):
+# https://graphviz.org/download/ (Windows: winget install graphviz, затем добавить в PATH)
